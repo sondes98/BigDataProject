@@ -2,7 +2,7 @@
  
 ## Description
  
-Ce projet d'analyse Big Data pour le transport public en Finlande a démontré l'impact considérable que peuvent avoir des outils et technologies modernes sur l'amélioration de la gestion et de l'optimisation du transport en temps réel. L'objectif principal de ce projet était d'analyser les données de transport public, de prédire les retards et les accidents, et d'identifier les problèmes de planification tels que des horaires de train et de bus désynchronisés.
+Ce projet d'analyse Big Data pour le transport public en Finlande a démontré l'impact considérable que peuvent avoir des outils et technologies modernes sur l'amélioration de la gestion et de l'optimisation du transport en temps réel. L'objectif principal de ce projet était d'analyser les données de transport public, de prédire les retards, et d'identifier les problèmes de planification tels que des horaires de train et de bus désynchronisés.
  
 ### Objectifs du projet :
  
